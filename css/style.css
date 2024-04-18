@@ -1,6 +1,46 @@
+body{
+    background-color: rgb(248, 200, 220);
+    font-family: 'Brush Script MT', cursive;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
 #main {
-    color: pink;
+    background: linear-gradient(#6c00fa, #ff00bf, #f7dc60);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-style: italic;
+    font-size: 50px;
 }
 [href] {
-    color: black;
+    color: rgb(255, 105, 180);
+}
+header {
+    background: linear-gradient(#6c00fa, #ff00bf, #f7dc60);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-style: italic;
+    font-size: 50px;
+}
+#pagelogo {
+    height: 200px;
+    width: 300px;
+}
+img {
+    height: 200px;
+    width: 200px;
+}
+table {
+    color: rgb(255, 255, 255);
+    border-collapse: collapse;
+}
+th,td {
+    text-align: left;
+    padding: 1rem;
+    border: 3px solid rgb(255, 255, 255);
+}
+tr,td {
+    border: 1px solid rgb(255, 255, 255)
+}
+#nav {
+
 }
