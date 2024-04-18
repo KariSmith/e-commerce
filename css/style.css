@@ -4,13 +4,3 @@
 [href] {
     color: black;
 }
-body {
-    background-color: black;
-}
-$carousel-control-color: $black;
-
-
-#accordionExample {
-    
-}
-#{$prefix}accordion-color: #{$accordion-color};
