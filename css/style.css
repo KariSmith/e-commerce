@@ -3,6 +3,8 @@ body{
     font-family: 'Brush Script MT', cursive;
     font-size: 20px;
     color: rgb(255, 255, 255);
+    padding-left: 1cap;
+    padding-right: 1cap;
 }
 #main {
     background: linear-gradient(#6c00fa, #ff00bf, #f7dc60);
@@ -25,10 +27,6 @@ header {
     height: 200px;
     width: 300px;
 }
-img {
-    height: 200px;
-    width: 200px;
-}
 table {
     color: rgb(255, 255, 255);
     border-collapse: collapse;
@@ -42,5 +40,5 @@ tr,td {
     border: 1px solid rgb(255, 255, 255)
 }
 #nav {
-
+        
 }
