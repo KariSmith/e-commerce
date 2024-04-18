@@ -39,6 +39,7 @@ th,td {
 tr,td {
     border: 1px solid rgb(255, 255, 255)
 }
-#nav {
-        
+#header {
+    color: #ff009d;
+
 }
