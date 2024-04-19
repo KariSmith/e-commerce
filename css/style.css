@@ -5,6 +5,7 @@ body{
     color: rgb(255, 255, 255);
     padding-left: 1cap;
     padding-right: 1cap;
+    padding-bottom: 2cap;
 }
 #main {
     background: linear-gradient(#6c00fa, #ff00bf, #f7dc60);
