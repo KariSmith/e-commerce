@@ -1,3 +1,6 @@
+/*Various shades of pink*/
+/*Made to have a neater, cute look*/
+/*In order of being done*/
 body{
     background-color: rgb(248, 200, 220);
     font-family: 'Brush Script MT', cursive;
@@ -17,6 +20,7 @@ body{
 [href] {
     color: rgb(255, 105, 180);
 }
+/*Gradient for welcome statement*/
 header {
     background: linear-gradient(#6c00fa, #ff00bf, #f7dc60);
     -webkit-background-clip: text;
