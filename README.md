@@ -3,10 +3,10 @@ E-commerce Capstone 1 Project 4/18/24
 
 Website showcasing different coords fron different brands from The Pretty Series
 
--![Home Page] (./images/homepage.png)
+-![Home Page] (C:\Users\Kari\LearnToCode\Capstone\e-commerce\e-commerce\images\Readme\homepage.png)
 -![Register Page] (./images/registerpage.png)
 -![Login Page] (./images/loginpage.png)
--![Products Page] (./images/productspage.png)
+-![Products Page] (./images/productpage.png)
 -![Checkout Page] (./images/checkoutpage.png)
 
 My most interesting piece of code would be my carousel card images.
