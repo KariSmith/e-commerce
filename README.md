@@ -1,7 +1,7 @@
 The Pretty Series Store
 E-commerce Capstone 1 Project 4/18/24
 
-Website showcasing different coords fron different brands from The Pretty Series
+Website showcasing different coords from different brands from The Pretty Series
 
 ![Home Page](./images/Readme/homepage.png)
 ![Register Page](./images/Readme/registerpage.png)
